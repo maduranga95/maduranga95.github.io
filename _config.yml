@@ -66,3 +66,7 @@ topics:
   - name: AWS
     web_url: https://aws.amazon.com/
     image_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+
+  - name: Docker
+    web_url: https://www.docker.com/
+    image_url: https://miro.medium.com/max/336/0*I86u-SR620EEnM-X.png
