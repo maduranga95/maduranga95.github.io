@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Biomedical Researcher | Graduate Student at <a href='https://medbio.utoronto.ca/'>University of Toronto</a>.
 
 profile:
   align: right
