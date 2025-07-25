@@ -6,7 +6,7 @@ subtitle: 🧬 Biomedical Researcher | 🎓 Medical Biophysics Graduate Student 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image0.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
      <i class="ti ti-map-pin"></i><p>&nbsp;Toronto, Canada.</p>
@@ -30,6 +30,8 @@ latest_posts:
 
 Aspiring scientist with strong foundation in data analytics, machine learning, programming, statistics, and genomics. I’m passionate about applying computational methods to address complex biological problems and contributing to impactful research in both academic and industry settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I majored in Computer Science and Engineering during my undergraduate study at the [University of Moratuwa](https://uom.lk/),  and am passionate about leveraging biological data to address fundamental questions in biology. I am proficient in programming, machine-learning, statistics, data visualization, and a wide range of bioinformatics and genomic tools, with expertise in multi-omics data analysis.
+<!-- 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
